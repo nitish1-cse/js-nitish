@@ -4,3 +4,5 @@ let accountEmail = "nitish12@gmail.com"
 var accountPass = "12345"
 accountCity = "Purnea"
 let accountState;
+
+console.table([accountId, accountEmail, accountPass, accountCity, accountState])
